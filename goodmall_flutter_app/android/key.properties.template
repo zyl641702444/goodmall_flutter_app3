@@ -1,0 +1,4 @@
+storePassword=请填写你的keystore密码
+keyPassword=请填写你的key密码
+keyAlias=goodmall
+storeFile=/absolute/path/to/goodmall-release-key.jks
